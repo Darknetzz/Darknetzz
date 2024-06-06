@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&include_all_commits=true&theme=aura)](https://github.com/Darknetzz/github-readme-stats)
 <!--
 **Darknetzz/Darknetzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
