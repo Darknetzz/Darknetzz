@@ -2,7 +2,7 @@
 [![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&show_icons=true)](https://github.com/Darknetzz/github-readme-stats)
 <!--
   
-  [![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&include_all_commits=true&theme=aura)](https://github.com/Darknetzz/github-readme-stats)
+  [![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&include_all_commits=true&theme=cobalt)](https://github.com/Darknetzz/github-readme-stats)
 
 -->
 <!--
