@@ -25,10 +25,10 @@
 
 ## Tools I use
 ### Every day
-[![Languages](https://skillicons.dev/icons?i=ansible,bootstrap,windows,linux,ubuntu,github,gitlab,vscode)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=docker,ansible,bootstrap,windows,linux,ubuntu,github,gitlab,vscode)](https://skillicons.dev)
 
 ### Often
-[![Languages](https://skillicons.dev/icons?i=debian,docker,nginx,vim,md,stackoverflow)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=debian,nginx,vim,md,stackoverflow)](https://skillicons.dev)
 
 ### Sometimes
 [![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi,azure,django,flask,gcp,kali,bsd,mongodb,postman,symfony)](https://skillicons.dev)
