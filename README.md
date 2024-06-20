@@ -10,14 +10,14 @@
 [![Languages](https://skillicons.dev/icons?i=js,html,css,jquery,bash,php,py)](https://skillicons.dev)
 
 ### Intermediate
-[![Languages](https://skillicons.dev/icons?i=mysql,powershell,r)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=mysql,powershell,r,ts)](https://skillicons.dev)
 
 ### Beginner/Learning
 [![Languages](https://skillicons.dev/icons?i=laravel,lua,flutter,rust)](https://skillicons.dev)
 
 ## Tools I use
 ### Every day
-[![Languages](https://skillicons.dev/icons?i=ansible,bootstrap,linux,ubuntu,github,gitlab,vscode)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ansible,bootstrap,windows,linux,ubuntu,github,gitlab,vscode)](https://skillicons.dev)
 
 ### Often
 [![Languages](https://skillicons.dev/icons?i=debian,docker,nginx,vim,md,stackoverflow)](https://skillicons.dev)
