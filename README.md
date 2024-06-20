@@ -6,7 +6,14 @@
 
 -->
 ## Languages I speak
-[![Languages](https://skillicons.dev/icons?i=js,html,css,jquery,bash,laravel,lua,mysql,php,powershell,py,r)](https://skillicons.dev)
+### Fluently
+[![Languages](https://skillicons.dev/icons?i=js,html,css,jquery,bash,php,py)](https://skillicons.dev)
+
+### Intermediate
+[![Languages](https://skillicons.dev/icons?i=mysql,powershell,r)](https://skillicons.dev)
+
+### Beginner/Learning
+[![Languages](https://skillicons.dev/icons?i=laravel,lua)](https://skillicons.dev)
 
 ## Tools I use
 [![Languages](https://skillicons.dev/icons?i=ansible,bootstrap,ansible,linux,debian,ubuntu,docker,github,gitlab,nginx,obsidian,raspberrypi,vim,vscode)](https://skillicons.dev)
