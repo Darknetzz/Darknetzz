@@ -31,7 +31,7 @@
 [![Languages](https://skillicons.dev/icons?i=debian,docker,nginx,vim,md,stackoverflow)](https://skillicons.dev)
 
 ### Sometimes
-[![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi,azure,django,flask,gcp,kali,bcd,mongodb,postman,symfony)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi,azure,django,flask,gcp,kali,bsd,mongodb,postman,symfony)](https://skillicons.dev)
 
 <!--
 **Darknetzz/Darknetzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
