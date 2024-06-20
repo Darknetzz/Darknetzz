@@ -16,12 +16,11 @@
 [![Languages](https://skillicons.dev/icons?i=laravel,lua)](https://skillicons.dev)
 
 ## Tools I use
-
 ### Every day
 [![Languages](https://skillicons.dev/icons?i=ansible,bootstrap,linux,ubuntu,github,gitlab,vscode)](https://skillicons.dev)
 
 ### Sometimes
-[![Languages](https://skillicons.dev/icons?i=debian,docker,nginx,raspberrypi,vim)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=debian,docker,nginx,vim)](https://skillicons.dev)
 
 ### Rarely
 [![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi)](https://skillicons.dev)
