@@ -13,7 +13,7 @@
 [![Languages](https://skillicons.dev/icons?i=mysql,powershell,r,ts,regex)](https://skillicons.dev)
 
 ### Beginner/Learning
-[![Languages](https://skillicons.dev/icons?i=laravel,lua,flutter,rust)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=laravel,lua,dart,c,flutter,rust,nextjs,arduino)](https://skillicons.dev)
 
 ## Tools I use
 ### Every day
@@ -23,7 +23,7 @@
 [![Languages](https://skillicons.dev/icons?i=debian,docker,nginx,vim,md,stackoverflow)](https://skillicons.dev)
 
 ### Sometimes
-[![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi,azure,django,flask,gcp,kali,mongodb,postman,symfony)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi,azure,django,flask,gcp,kali,bcd,mongodb,postman,symfony)](https://skillicons.dev)
 
 <!--
 **Darknetzz/Darknetzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
