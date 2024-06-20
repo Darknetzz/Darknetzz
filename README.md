@@ -10,7 +10,7 @@
 [![Languages](https://skillicons.dev/icons?i=js,html,css,jquery,bash,php,py)](https://skillicons.dev)
 
 ### Intermediate
-[![Languages](https://skillicons.dev/icons?i=mysql,powershell,r,ts)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=mysql,powershell,r,ts,regex)](https://skillicons.dev)
 
 ### Beginner/Learning
 [![Languages](https://skillicons.dev/icons?i=laravel,lua,flutter,rust)](https://skillicons.dev)
