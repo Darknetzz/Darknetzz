@@ -13,6 +13,9 @@
   [![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&include_all_commits=true&theme=cobalt)](https://github.com/Darknetzz/github-readme-stats)
 
 -->
+
+
+
 ## Languages I speak
 ### Fluently
 [![Languages](https://skillicons.dev/icons?i=js,html,css,jquery,bash,php,py)](https://skillicons.dev)
@@ -22,6 +25,9 @@
 
 ### Beginner/Learning
 [![Languages](https://skillicons.dev/icons?i=laravel,lua,dart,c,flutter,rust,nextjs,arduino)](https://skillicons.dev)
+
+
+
 
 ## Tools I use
 ### Every day
