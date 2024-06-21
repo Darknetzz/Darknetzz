@@ -1,13 +1,15 @@
 ## Hi there 👋
 
+[![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&show_icons=true&theme=cobalt)](https://github.com/Darknetzz/github-readme-stats)
+<!--
 - 🔭 I’m currently working on all kinds of different projects, specifically tools than can simplify my PHP development.
 - 🌱 I’m currently learning Laravel, Arduino (and MicroPython, ESP32 microchip stuff). Although I know very little at this point I find it interesting and rewarding to work with.
 - 👯 I’m looking to collaborate on anything I can help with!
 - 🤔 I’m looking for help with improving my codebase, and fixing bugs etc.
 - 💬 Ask me about anything!
 - 📫 How to reach me: Send me an e-mail at github@roste.org
+-->
 
-[![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&show_icons=true&theme=cobalt)](https://github.com/Darknetzz/github-readme-stats)
 <!--
   
   [![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&include_all_commits=true&theme=cobalt)](https://github.com/Darknetzz/github-readme-stats)
