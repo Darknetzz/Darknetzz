@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi! I'm Kristian, a hobby codewriter/scripter/webdev. 😎
+
+The primary languages I use include PHP ❤️ <i>(don't hate me please)</i>, JavaScript & jQuery, Python and Bash. 🧑‍💻
+
+I work with application operations on a daily basis, and I definitely enjoy spending time automating stuff! 🕒
+
+When it comes to overengineering, I am a world class professional! 😅
+
+**⚠️ DISCLAIMER:** Most of my projects here are just made for fun, and should not be used in any production environments.
 
 [![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&show_icons=true&theme=cobalt)](https://github.com/Darknetzz/github-readme-stats)
 <!--
@@ -16,29 +24,35 @@
 
 -->
 
+<br>
+<br>
+<br>
 
 
 ## Languages I speak
-### Fluently
+* ### Fluently
 [![Languages](https://skillicons.dev/icons?i=js,html,css,jquery,bash,php,py)](https://skillicons.dev)
 
-### Intermediate
+* ### Intermediate
 [![Languages](https://skillicons.dev/icons?i=mysql,powershell,r,ts,regex)](https://skillicons.dev)
 
-### Beginner/Learning
+* ### Beginner/Learning
 [![Languages](https://skillicons.dev/icons?i=laravel,lua,dart,c,flutter,rust,nextjs,arduino)](https://skillicons.dev)
 
 
+<br>
+<br>
+<br>
 
 
 ## Tools I use
-### Every day
+* ### Every day
 [![Languages](https://skillicons.dev/icons?i=docker,ansible,bootstrap,windows,linux,ubuntu,github,gitlab,vscode)](https://skillicons.dev)
 
-### Often
+* ### Often
 [![Languages](https://skillicons.dev/icons?i=debian,nginx,vim,md,stackoverflow)](https://skillicons.dev)
 
-### Sometimes
+* ### Sometimes
 [![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi,azure,django,flask,gcp,kali,bsd,mongodb,postman,symfony)](https://skillicons.dev)
 
 <!--
