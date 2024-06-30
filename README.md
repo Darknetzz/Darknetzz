@@ -1,6 +1,6 @@
 ## Hi! I'm Kristian, a hobby codewriter/scripter/webdev. 😎
 
-The primary languages I use include PHP ❤️ <i>(don't hate me please)</i>, JavaScript & jQuery, Python and Bash. 🧑‍💻
+The primary languages I use include PHP ❤️ <i>(don't hate me please)</i>, JavaScript (jQuery), Python and Bash. 🧑‍💻
 
 I work with application operations on a daily basis, and I definitely enjoy spending time automating stuff! 🕒
 
@@ -31,7 +31,7 @@ When it comes to overengineering, I am a world class professional! 😅
 
 ## Languages I speak
 * ### Fluently
-[![Languages](https://skillicons.dev/icons?i=js,html,css,jquery,bash,php,py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=php,js,jquery,html,css,bash,py)](https://skillicons.dev)
 
 * ### Intermediate
 [![Languages](https://skillicons.dev/icons?i=mysql,powershell,r,ts,regex)](https://skillicons.dev)
