@@ -1,12 +1,71 @@
-<div id="badges">
-  <img src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows Badge"/>
-  <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
-  <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
-</div>
-<h1>CCleaner Free Download</h1>
-<p><img src="https://repository-images.githubusercontent.com/811405741/28b91802-5b00-47cc-8523-3f2d3fb25916"/></p>
-<h2>CCleaner Free-Crack</h2>
-<p><strong>CCleaner is a utility for cleaning junk in the operating system. In the course of its work CCleaner (Crap Cleaner) searches for and removes temporary and unused files. This includes: cookies, IE browsing history, temporary Internet files, search strings, Recycle Bin files, etc. It can also search for temporary files of third-party applications such as Firefox, Opera, Media Player, eMule, Kazaa, Google Toolbar, Netscape, Office XP, Nero, Alcohol 120, Adobe Acrobat, WinRAR, WinAce, WinZip, GetRight, Morpheus, Download Accelerator Plus, VirtualDub, ZoneAlarm and many others. You can also clean the Windows registry, ridding it of unnecessary extensions, old dll libraries and incorrect paths, which accumulate in large numbers, especially after installing and uninstalling a variety of programs. By doing all these operations on your system, you will not only free up disk space, but also increase the performance of the system as a whole.</p>
-</ol>
-<a href="https://github.com/Oliver1203/crypto/releases/tag/Rev1.32">
-<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
+## Hi! I'm Kristian, a hobby codewriter/scripter/webdev. 😎
+
+The primary languages I use include PHP ❤️ <i>(don't hate me please)</i>, JavaScript (jQuery), Python and Bash. 🧑‍💻
+
+I work with application operations on a daily basis, and I definitely enjoy spending time automating stuff! 🕒
+
+When it comes to overengineering, I am a world class professional! 😅
+
+**⚠️ DISCLAIMER:** Most of my projects here are just made for fun, and should not be used in any production environments.
+
+[![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&show_icons=true&theme=cobalt)](https://github.com/Darknetzz/github-readme-stats)
+<!--
+- 🔭 I’m currently working on all kinds of different projects, specifically tools than can simplify my PHP development.
+- 🌱 I’m currently learning Laravel, Arduino (and MicroPython, ESP32 microchip stuff). Although I know very little at this point I find it interesting and rewarding to work with.
+- 👯 I’m looking to collaborate on anything I can help with!
+- 🤔 I’m looking for help with improving my codebase, and fixing bugs etc.
+- 💬 Ask me about anything!
+- 📫 How to reach me: Send me an e-mail at github@roste.org
+-->
+
+<!--
+  
+  [![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&include_all_commits=true&theme=cobalt)](https://github.com/Darknetzz/github-readme-stats)
+
+-->
+
+<br>
+<br>
+<br>
+
+
+## Languages I speak
+* ### Fluently
+[![Languages](https://skillicons.dev/icons?i=php,js,jquery,html,css,bash,py)](https://skillicons.dev)
+
+* ### Intermediate
+[![Languages](https://skillicons.dev/icons?i=mysql,powershell,r,ts,regex)](https://skillicons.dev)
+
+* ### Beginner/Learning
+[![Languages](https://skillicons.dev/icons?i=laravel,lua,dart,c,flutter,rust,nextjs,arduino)](https://skillicons.dev)
+
+
+<br>
+<br>
+<br>
+
+
+## Tools I use
+* ### Every day
+[![Languages](https://skillicons.dev/icons?i=docker,ansible,bootstrap,windows,linux,ubuntu,github,gitlab,vscode)](https://skillicons.dev)
+
+* ### Often
+[![Languages](https://skillicons.dev/icons?i=debian,nginx,vim,md,stackoverflow)](https://skillicons.dev)
+
+* ### Sometimes
+[![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi,azure,django,flask,gcp,kali,bsd,mongodb,postman,symfony)](https://skillicons.dev)
+
+<!--
+**Darknetzz/Darknetzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
