@@ -34,7 +34,7 @@ When it comes to overengineering, I am a world class professional! 😅
 [![Languages](https://skillicons.dev/icons?i=mysql,php,js,jquery,html,css,bash,py)](https://skillicons.dev)
 
 * ### Intermediate
-[![Languages](https://skillicons.dev/icons?i=postgres,powershell,r,ts,regex)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=postgres,powershell,r,ts,regex,lua)](https://skillicons.dev)
 
 * ### Beginner/Learning
 [![Languages](https://skillicons.dev/icons?i=laravel,lua,dart,c,flutter,rust,nextjs,arduino,sqlite)](https://skillicons.dev)
@@ -53,7 +53,7 @@ When it comes to overengineering, I am a world class professional! 😅
 [![Languages](https://skillicons.dev/icons?i=nginx,md,stackoverflow)](https://skillicons.dev)
 
 * ### Sometimes
-[![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi,azure,django,flask,gcp,kali,bsd,mongodb,postman,symfony,azure,lua)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi,azure,django,flask,gcp,kali,bsd,mongodb,postman,symfony,azure)](https://skillicons.dev)
 
 <!--
 **Darknetzz/Darknetzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
