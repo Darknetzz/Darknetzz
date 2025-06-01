@@ -31,13 +31,13 @@ When it comes to overengineering, I am a world class professional! 😅
 
 ## Languages I speak
 * ### Fluently
-[![Languages](https://skillicons.dev/icons?i=php,js,jquery,html,css,bash,py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=mysql,php,js,jquery,html,css,bash,py)](https://skillicons.dev)
 
 * ### Intermediate
-[![Languages](https://skillicons.dev/icons?i=mysql,powershell,r,ts,regex)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=postgres,powershell,r,ts,regex)](https://skillicons.dev)
 
 * ### Beginner/Learning
-[![Languages](https://skillicons.dev/icons?i=laravel,lua,dart,c,flutter,rust,nextjs,arduino)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=laravel,lua,dart,c,flutter,rust,nextjs,arduino,sqlite)](https://skillicons.dev)
 
 
 <br>
@@ -47,13 +47,13 @@ When it comes to overengineering, I am a world class professional! 😅
 
 ## Tools I use
 * ### Every day
-[![Languages](https://skillicons.dev/icons?i=docker,ansible,bootstrap,windows,linux,ubuntu,github,gitlab,vscode)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=docker,ansible,bootstrap,windows,linux,ubuntu,debian,git,github,gitlab,vim,vscode)](https://skillicons.dev)
 
 * ### Often
-[![Languages](https://skillicons.dev/icons?i=debian,nginx,vim,md,stackoverflow)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=nginx,md,stackoverflow)](https://skillicons.dev)
 
 * ### Sometimes
-[![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi,azure,django,flask,gcp,kali,bsd,mongodb,postman,symfony)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=obsidian,raspberrypi,azure,django,flask,gcp,kali,bsd,mongodb,postman,symfony,azure,lua)](https://skillicons.dev)
 
 <!--
 **Darknetzz/Darknetzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
