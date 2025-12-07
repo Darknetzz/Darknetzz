@@ -6,6 +6,12 @@ A hobby codewriter, scripter, and webdev with a passion for automation and DevOp
 
 ---
 
+## GitHub Stats
+
+[![Darknetzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darknetzz&show_icons=true&theme=cobalt)](https://github.com/Darknetzz)
+
+---
+
 ## Languages I Speak
 
 **Fluently**  
