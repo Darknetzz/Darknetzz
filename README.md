@@ -25,8 +25,9 @@ Hobby codewriter, scripter, and webdev with a passion for automation and DevOps.
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Darknetzz&layout=compact&theme=tokyo_night&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
+<!-- Streak SVG is generated daily and stored in-repo for fast, reliable loading (no third-party API on page view). -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Darknetzz&theme=tokyo_night&hide_border=true" alt="GitHub streak" />
+  <img src="./assets/github-streak.svg" alt="GitHub contribution streak" />
 </div>
 
 ---
