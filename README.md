@@ -37,7 +37,7 @@ Hobby codewriter, scripter, and webdev with a passion for automation and DevOps.
 | Level | Stack |
 | :--- | :--- |
 | **Fluently** | [![Languages](https://skillicons.dev/icons?i=php,javascript,python,bash,mysql,html,css)](https://skillicons.dev) |
-| **Intermediate** | [![Languages](https://skillicons.dev/icons?i=postgres,powershell,typescript,regex,lua,r)](https://skillicons.dev) |
+| **Intermediate** | [![Languages](https://skillicons.dev/icons?i=postgres,powershell,typescript,regex,lua,r,kotlin)](https://skillicons.dev) |
 | **Learning** | [![Languages](https://skillicons.dev/icons?i=laravel,rust,nginx,nodejs,c,flutter,arduino,sqlite)](https://skillicons.dev) |
 
 ---
