@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/images/banner-gradient.png" alt="Darknetzz" width="720"></p>
+
 <div align="center">
 
 # Hi, I'm Kristian 👋
