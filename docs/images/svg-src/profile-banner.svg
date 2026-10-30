@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="1280" height="420" role="img" aria-label="Darknetzz">
+  <title>Darknetzz</title>
+  <defs>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#fdba74"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="12%" cy="10%" r="60%">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#f97316" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="85%" cy="100%" r="45%">
+      <stop offset="0" stop-color="#fdba74" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#fdba74" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#f97316" fill-opacity="0.10"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#fff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="dotMask"><rect width="1280" height="420" fill="url(#fade)"/></mask>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="24" fill="#120b07"/>
+  <rect width="1280" height="420" rx="24" fill="url(#dots)" mask="url(#dotMask)"/>
+  <rect width="1280" height="420" rx="24" fill="url(#glowA)"/>
+  <rect width="1280" height="420" rx="24" fill="url(#glowB)"/>
+
+  <!-- Left: identity -->
+  <g font-family="'Cascadia Code', 'JetBrains Mono', Consolas, monospace">
+    <text x="88" y="150" font-size="20" fill="#f97316" letter-spacing="3">~/github</text>
+    <text x="84" y="232" font-size="84" font-weight="700" fill="url(#ac)" letter-spacing="-1">Darknetzz</text>
+    <rect x="540" y="176" width="28" height="60" rx="3" fill="#fdba74" fill-opacity="0.7"/>
+  </g>
+  <rect x="88" y="268" width="64" height="4" rx="2" fill="#f97316"/>
+  <text x="88" y="318" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="26" fill="#d6c2b4">
+    App ops <tspan fill="#f97316">·</tspan> automation <tspan fill="#f97316">·</tspan> DevOps
+  </text>
+  <text x="88" y="354" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="20" fill="#8a7466" font-style="italic">
+    occasional overengineering
+  </text>
+
+  <!-- Right: terminal -->
+  <g transform="translate(700 66)" filter="url(#shadow)">
+    <rect width="500" height="288" rx="14" fill="#1b120c" stroke="#3a2416" stroke-width="1.5"/>
+    <path d="M0 14 a14 14 0 0 1 14 -14 h472 a14 14 0 0 1 14 14 v26 h-500 z" fill="#24170f"/>
+    <circle cx="24" cy="20" r="6" fill="#ef4444" fill-opacity="0.85"/>
+    <circle cx="44" cy="20" r="6" fill="#f59e0b" fill-opacity="0.85"/>
+    <circle cx="64" cy="20" r="6" fill="#22c55e" fill-opacity="0.85"/>
+    <text x="250" y="25" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#8a7466">kristian@homelab: ~</text>
+
+    <g font-family="'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="17">
+      <text x="24" y="80"><tspan fill="#f97316">❯</tspan><tspan fill="#f5e6da"> whoami</tspan></text>
+      <text x="24" y="106" fill="#bfa898">kristian · norway</text>
+
+      <text x="24" y="146"><tspan fill="#f97316">❯</tspan><tspan fill="#f5e6da"> ./automate.sh </tspan><tspan fill="#8a7466">--task "rename one file"</tspan></text>
+      <text x="24" y="172" fill="#bfa898"><tspan fill="#22c55e">✓</tspan> provisioned 3 containers</text>
+      <text x="24" y="198" fill="#bfa898"><tspan fill="#22c55e">✓</tspan> wrote ansible role + CI pipeline</text>
+      <text x="24" y="224" fill="#bfa898"><tspan fill="#22c55e">✓</tspan> renamed file <tspan fill="#8a7466">(in 4h 12m)</tspan></text>
+
+      <text x="24" y="262"><tspan fill="#f97316">❯</tspan></text>
+      <rect x="44" y="248" width="10" height="19" fill="#fdba74"/>
+    </g>
+  </g>
+</svg>

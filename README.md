@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/images/banner-gradient.png" alt="Darknetzz" width="720"></p>
+<p align="center"><img src="docs/images/profile-banner.png" alt="Darknetzz" width="860"></p>
 
 <div align="center">
 

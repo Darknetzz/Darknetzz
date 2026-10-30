@@ -23,6 +23,7 @@ Dark flat-vector branding for README / GitLab avatar / social share.
 | `og/Darknetzz.png` | Open Graph 1280×640 |
 | `svg-src/` | SVG sources |
 | `ai/` | Optional AI atmospheric banner |
+| `profile-banner.png` | Profile README header (source: `svg-src/profile-banner.svg`, rendered 2× via headless Chrome) |
 
 ## Regenerate
 
